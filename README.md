@@ -7,6 +7,8 @@ https://www.photoroom.com/tools/remove-object-from-photo
 https://theinpaint.com
 <br>
 https://picsart.com/ru/remove-object-from-photo
+<br>
+https://www.magiceraser.io
 
 ---
 

@@ -13,3 +13,7 @@ https://clipdrop.co/remove-background
 ---
 
 https://www.screely.com
+
+---
+
+https://screenstab.com/editor

@@ -15,6 +15,8 @@ https://www.remove.bg
 https://clipdrop.co/remove-background
 <br>
 https://www.stickermule.com/trace
+<br>
+https://removal.ai/upload
 
 
 ---

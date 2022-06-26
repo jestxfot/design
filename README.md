@@ -9,6 +9,8 @@ https://theinpaint.com
 https://picsart.com/ru/remove-object-from-photo
 <br>
 https://www.magiceraser.io
+<br>
+https://cleanup.pictures
 
 ---
 

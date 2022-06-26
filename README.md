@@ -3,6 +3,8 @@ https://www.nvidia.com/research/inpainting/index.html
 https://www.hama.app/en
 <br>
 https://www.photoroom.com/tools/remove-object-from-photo
+<br>
+https://theinpaint.com
 
 ---
 

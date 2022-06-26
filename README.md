@@ -17,7 +17,8 @@ https://clipdrop.co/remove-background
 https://www.stickermule.com/trace
 <br>
 https://removal.ai/upload
-
+<br>
+https://www.fococlipping.com/clip
 
 ---
 

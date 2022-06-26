@@ -11,6 +11,8 @@ https://picsart.com/ru/remove-object-from-photo
 https://www.magiceraser.io
 <br>
 https://cleanup.pictures
+<br>
+https://huggingface.co/spaces/akhaliq/lama
 
 ---
 

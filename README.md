@@ -13,6 +13,9 @@ https://picsart.com/ru/remove-object-from-photo
 https://www.remove.bg
 <br>
 https://clipdrop.co/remove-background
+<br>
+https://www.stickermule.com/trace
+
 
 ---
 

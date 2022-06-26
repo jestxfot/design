@@ -5,6 +5,8 @@ https://www.hama.app/en
 https://www.photoroom.com/tools/remove-object-from-photo
 <br>
 https://theinpaint.com
+<br>
+https://picsart.com/ru/remove-object-from-photo
 
 ---
 

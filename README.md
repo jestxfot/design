@@ -33,3 +33,5 @@ https://www.screely.com
 ---
 
 https://screenstab.com/editor
+<br>
+https://29a.ch/photo-forensics/#forensic-magnifier

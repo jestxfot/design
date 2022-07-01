@@ -44,5 +44,3 @@ https://tweet.pics
 https://pika.style
 <br>
 https://www.brandbird.app/studio
-<br>
-https://screenstab.com/editor

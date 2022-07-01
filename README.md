@@ -25,6 +25,8 @@ https://www.stickermule.com/trace
 https://removal.ai/upload
 <br>
 https://www.fococlipping.com/clip
+<br>
+https://bigjpg.com
 
 ---
 

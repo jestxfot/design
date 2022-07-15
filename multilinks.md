@@ -14,3 +14,6 @@
 ### https://allmylinks.com
 ![image](https://user-images.githubusercontent.com/87380272/179317066-b6fafda4-1c3a-46fa-a046-20c5c20f90fd.png)
 ![image](https://user-images.githubusercontent.com/87380272/179317084-73a024bc-e5a2-4d22-8df1-dd4c0e71196b.png)
+
+### https://infome.cc
+![image](https://user-images.githubusercontent.com/87380272/179317358-b0faa458-346b-4473-a98d-d1e7913b46ac.png)

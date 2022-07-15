@@ -1,6 +1,6 @@
 ### https://socprofile.com
 ![image](https://user-images.githubusercontent.com/87380272/179316715-fdcd88c6-6b08-43e7-9960-2d9f8ff66b5c.png)
-![image](https://user-images.githubusercontent.com/87380272/179315793-37ce1810-2f47-4ebd-bf49-7d5c657c00bb.png)
+![image](https://user-images.githubusercontent.com/87380272/179316739-c08069c1-f650-4a67-9f07-e29b3c1b9efc.png)
 
 ### https://tapmybio.com
 

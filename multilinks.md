@@ -10,3 +10,7 @@
 ### https://multilinks.me
 ![image](https://user-images.githubusercontent.com/87380272/179316656-6e37ebd6-56b8-4766-9dd5-29936a5cecd2.png)
 ![image](https://user-images.githubusercontent.com/87380272/179316689-53179f68-b1e6-4026-8617-af72d55a892d.png)
+
+### https://allmylinks.com
+![image](https://user-images.githubusercontent.com/87380272/179317066-b6fafda4-1c3a-46fa-a046-20c5c20f90fd.png)
+![image](https://user-images.githubusercontent.com/87380272/179317084-73a024bc-e5a2-4d22-8df1-dd4c0e71196b.png)

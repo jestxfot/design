@@ -17,3 +17,6 @@
 
 ### https://infome.cc
 ![image](https://user-images.githubusercontent.com/87380272/179317358-b0faa458-346b-4473-a98d-d1e7913b46ac.png)
+
+### https://taplink.ru
+![image](https://user-images.githubusercontent.com/87380272/179349279-49414f96-f5a6-478d-8ab3-cfcfc9f06f01.png)

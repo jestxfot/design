@@ -13,6 +13,8 @@ https://www.magiceraser.io
 https://cleanup.pictures
 <br>
 https://huggingface.co/spaces/akhaliq/lama
+<br>
+https://www.erase.bg/upload
 
 ---
 

@@ -49,3 +49,6 @@ https://www.brandbird.app/studio
 
 ## Увеличить размер
 https://letsenhance.io/boost
+
+## Размеры изображений
+https://socialsizes.io

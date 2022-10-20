@@ -14,7 +14,7 @@ https://pixabay.com/ru/music/search/halloween/
 ### Video
 https://www.pexels.com/search/videos/police/
 <br>
-https://www.videvo.net/search/police/
+https://www.videvo.net/search/police/freeclips/yes/
 <br>
 https://mixkit.co/free-stock-video/police/
 <br>

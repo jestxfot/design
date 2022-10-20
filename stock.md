@@ -24,3 +24,4 @@ https://create.vista.com/ru/videos/police/
 <br>
 https://www.videezy.com/free-video/police?license-standard=true&license-cc=true&license-editorial=true&page=3&from=mainsite&in_se=true
 <br>
+https://www.gettyimages.com/videos/police?assettype=film&family=creative&phrase=police&sort=mostpopular

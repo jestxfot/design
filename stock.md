@@ -20,5 +20,7 @@ https://mixkit.co/free-stock-video/police/
 <br>
 https://pixabay.com/ru/videos/search/police/?manual_search=1&cat=None
 <br>
+https://create.vista.com/ru/videos/police/
+<br>
 https://www.videezy.com/free-video/police?license-standard=true&license-cc=true&license-editorial=true&page=3&from=mainsite&in_se=true
 <br>

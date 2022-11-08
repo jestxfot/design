@@ -49,7 +49,7 @@ https://www.brandbird.app/studio
 
 ## Увеличить размер
 https://letsenhance.io/boost
-<br
+<br>
 https://imglarger.com/test/index.html
 
 ## Размеры изображений

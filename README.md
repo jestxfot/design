@@ -56,6 +56,9 @@ https://imglarger.com/test/index.html
 <br>
 https://pichance.com
 
+## Уменьшить размер
+https://compressimage.io
+
 ## Размеры изображений
 https://socialsizes.io
 

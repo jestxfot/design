@@ -53,6 +53,8 @@ https://letsenhance.io/boost
 https://bigjpg.com/ru
 <br>
 https://imglarger.com/test/index.html
+<br>
+https://pichance.com
 
 ## Размеры изображений
 https://socialsizes.io

@@ -15,6 +15,8 @@ https://cleanup.pictures
 https://huggingface.co/spaces/akhaliq/lama
 <br>
 https://www.erase.bg/upload
+<br>
+https://remover.zmo.ai
 
 ---
 

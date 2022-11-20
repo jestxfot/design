@@ -64,3 +64,6 @@ https://socialsizes.io
 
 ## Превью
 https://thumbsup.tv
+
+## 3D editor
+https://app.spline.design

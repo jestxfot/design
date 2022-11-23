@@ -74,3 +74,6 @@ https://app.vectary.com
 
 ## 2D editor
 https://app.runwayml.com
+
+## Design
+https://landings.dev/

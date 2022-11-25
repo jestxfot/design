@@ -49,6 +49,8 @@ https://pika.style
 <br>
 https://www.brandbird.app/studio
 
+https://ray.so
+<br>
 https://carbon.now.sh
 
 ## Увеличить размер

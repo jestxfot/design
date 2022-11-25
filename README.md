@@ -49,6 +49,8 @@ https://pika.style
 <br>
 https://www.brandbird.app/studio
 
+https://snappify.io/editor
+<br>
 https://ray.so
 <br>
 https://carbon.now.sh

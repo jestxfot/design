@@ -33,6 +33,8 @@ https://www.fococlipping.com/clip
 https://bigjpg.com
 <br>
 https://www.unscreen.com
+<br>
+https://www.remove.bg
 
 ---
 

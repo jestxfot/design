@@ -92,3 +92,5 @@ https://app.runwayml.com
 https://landings.dev/
 <br>
 https://gamma.app
+
+https://www.blancvpn.com/ru

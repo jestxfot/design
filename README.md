@@ -17,11 +17,10 @@ https://huggingface.co/spaces/akhaliq/lama
 https://www.erase.bg/upload
 <br>
 https://remover.zmo.ai
-
----
-
-https://www.remove.bg
 <br>
+https://www.remove.bg
+
+### Remove Background
 https://clipdrop.co/remove-background
 <br>
 https://www.stickermule.com/trace

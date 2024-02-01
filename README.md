@@ -14,14 +14,14 @@ https://cleanup.pictures
 <br>
 https://huggingface.co/spaces/akhaliq/lama
 <br>
-https://www.erase.bg/upload
-<br>
 https://remover.zmo.ai
 <br>
 https://www.remove.bg
 
 ### Remove Background
-https://clipdrop.co/remove-background
+Хорошо удаляет большие детали https://clipdrop.co/remove-background
+<br>
+https://www.erase.bg/upload
 <br>
 https://www.stickermule.com/trace
 <br>

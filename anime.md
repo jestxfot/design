@@ -6,3 +6,5 @@ https://animegenius.live3d.io/image-to-image - вроде круто, но пл�
 
 ### Telegram
 https://t.me/different_ddm_bot
+
+https://t.me/neyro_anime_bot

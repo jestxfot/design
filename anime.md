@@ -8,3 +8,5 @@ https://animegenius.live3d.io/image-to-image - вроде круто, но пл�
 https://t.me/different_ddm_bot
 
 https://t.me/neyro_anime_bot
+
+https://t.me/AiAnimeGenerator_h5tuqqcom_bot

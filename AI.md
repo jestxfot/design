@@ -12,3 +12,6 @@ https://www.bardeen.ai/
 
 ### Audio
 https://huggingface.co/spaces/fffiloni/MAGNet
+
+### Design
+https://www.usegalileo.ai
